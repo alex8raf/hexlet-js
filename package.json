@@ -1,0 +1,21 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {  
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex8raf/hexlet-js.git"
+  },
+  "author": "alex8raf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex8raf/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/alex8raf/hexlet-js#readme"
+}
