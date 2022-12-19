@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
-  "scripts": {  
+  "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/alex8raf/hexlet-js/issues"
   },
-  "homepage": "https://github.com/alex8raf/hexlet-js#readme"
+  "homepage": "https://github.com/alex8raf/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
